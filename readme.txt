@@ -1,5 +1,5 @@
 Made by LightUpFam#2462
-Props repurposed from Gmap 
+Reused props from Gmap 
 
 This is a free release. 
 
