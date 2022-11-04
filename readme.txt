@@ -11,4 +11,4 @@ Peds walking on beach were getting stuck on the mcdonalds so I added some ramps 
 KFC inside counter has no colission.
 
 I slapped this together because I've never seen anything developed at this location. Its always been a great looking piece of land. 
-I hope hope your community enmjoys this. 
+I hope hope your community enjoys this. 
